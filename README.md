@@ -18,7 +18,7 @@ Este material es un complemento al [GitBook oficial](https://app.gitbook.com/@be
 ### Contenido
 
 - [Sesión 1: Introducción a __Python__](sesion01/README.md)
-<!-- - [Sesión 2: Herramientas de *Data Scientist*](sesion02/README.md)-->
+- [Sesión 2: Herramientas de *Data Scientist*](sesion02/README.md)
 <!--- [Sesión 3: __NumPy__ para *Data Science*](sesion03/README.md)-->
 <!---- [Sesión 4: Diccionarios, JSON, y Análisis Exploratorio de Datos](sesion04/README.md)-->
 <!--- [Sesión 5: Procesamiento y Transformación de Datos](sesion05/README.md)-->
